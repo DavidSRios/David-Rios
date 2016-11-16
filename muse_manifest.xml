@@ -1,0 +1,114 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="galileo.edu" resolutions="1x" timestamp="1470365789428">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-p_g_-maestra.css" crc="352685102" ref="index"/>
+    <file name="index.css" crc="3935260060" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u4595.php" crc="4003333151" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bakery-favicon.ico" crc="514281271" ref="index"/>
+    <file name="logo1.svg" crc="3834968716" seo="true" ref="index"/>
+    <file name="logo1_poster_.png" crc="3841675798" ref="index"/>
+    <file name="white-kitchen-bakery-cookies.jpg" crc="74617337" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="food-bakery-chocolate-sweet.jpg" crc="48104402" seo="true" ref="index"/>
+    <file name="food-couple-sweet-married.jpg" crc="270490589" seo="true" ref="index"/>
+    <file name="pexels-photo-14107.jpg" crc="4122627812" seo="true" ref="index"/>
+    <file name="pexels-photo-96588.jpg" crc="4093782355" seo="true" ref="index"/>
+    <file name="circle_back_1.png" crc="267777542" ref="index"/>
+    <file name="u403-r.png" crc="4061332951" ref="index"/>
+    <file name="u398-r.png" crc="4184009542" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u706-4.png" crc="392122508" ref="index"/>
+    <file name="ilustración-2.svg" crc="3882403552" seo="true" ref="index"/>
+    <file name="ilustración 2_poster_.png" crc="3944737018" ref="index"/>
+    <file name="recurso 1-iebuttonu2666-fr.png" crc="4059253638" ref="index"/>
+    <file name="recurso 1.png" crc="4059253638" ref="index"/>
+    <file name="recurso 2.png" crc="3900314600" ref="index"/>
+    <file name="food-bakery-chocolate-sweet548x366.jpg" crc="523612590" seo="true" ref="index"/>
+    <file name="muffin.jpg" crc="3760598451" seo="true" ref="index"/>
+    <file name="pexels-photo.jpg" crc="4185489836" seo="true" ref="index"/>
+    <file name="restaurant-coffee-chocolate-dessert.jpg" crc="43996957" seo="true" ref="index"/>
+    <file name="food-bakery-chocolate-sweet60x40.jpg" crc="4264603090" seo="true" ref="index"/>
+    <file name="muffin60x40.jpg" crc="331292659" seo="true" ref="index"/>
+    <file name="pexels-photo60x40.jpg" crc="265501602" seo="true" ref="index"/>
+    <file name="restaurant-coffee-chocolate-dessert60x40.jpg" crc="439350728" seo="true" ref="index"/>
+    <file name="recurso 3-iebuttonu3079-fr.png" crc="438429137" ref="index"/>
+    <file name="recurso 3.png" crc="438429137" ref="index"/>
+    <file name="recurso 4.png" crc="105507116" ref="index"/>
+    <file name="food-couple-sweet-married548x366.jpg" crc="157003924" seo="true" ref="index"/>
+    <file name="pexels-photo-14107548x366.jpg" crc="175004344" seo="true" ref="index"/>
+    <file name="eszterhazyschnitte-cream-slice-dessert-39381.jpg" crc="4101775407" seo="true" ref="index"/>
+    <file name="cake-foodporn-night-80779.jpg" crc="4249587356" seo="true" ref="index"/>
+    <file name="food-couple-sweet-married60x40.jpg" crc="3983479729" seo="true" ref="index"/>
+    <file name="pexels-photo-1410760x40.jpg" crc="20470625" seo="true" ref="index"/>
+    <file name="eszterhazyschnitte-cream-slice-dessert-3938160x40.jpg" crc="4211206867" seo="true" ref="index"/>
+    <file name="cake-foodporn-night-8077960x40.jpg" crc="3846517611" seo="true" ref="index"/>
+    <file name="recurso 5-iebuttonu3267-fr.png" crc="532136711" ref="index"/>
+    <file name="recurso 5.png" crc="532136711" ref="index"/>
+    <file name="recurso 6.png" crc="197160440" ref="index"/>
+    <file name="white-kitchen-bakery-cookies548x366.jpg" crc="3815613974" seo="true" ref="index"/>
+    <file name="cookies-christmas-xmas-baking.jpg" crc="4133796168" seo="true" ref="index"/>
+    <file name="food-dessert-sweet-color.jpg" crc="63972168" seo="true" ref="index"/>
+    <file name="pexels-photo-29959.jpg" crc="514427598" seo="true" ref="index"/>
+    <file name="pexels-photo-96588324x485.jpg" crc="3988681846" seo="true" ref="index"/>
+    <file name="white-kitchen-bakery-cookies60x40.jpg" crc="181991583" seo="true" ref="index"/>
+    <file name="cookies-christmas-xmas-baking60x40.jpg" crc="4270805593" seo="true" ref="index"/>
+    <file name="food-dessert-sweet-color30x46.jpg" crc="186436572" seo="true" ref="index"/>
+    <file name="pexels-photo-2995960x40.jpg" crc="4229527279" seo="true" ref="index"/>
+    <file name="pexels-photo-9658830x45.jpg" crc="4261664216" seo="true" ref="index"/>
+    <file name="recurso 1s-iebuttonu5212-fr.png" crc="45267587" ref="index"/>
+    <file name="recurso 1s.png" crc="45267587" ref="index"/>
+    <file name="recurso 2s.png" crc="201303005" ref="index"/>
+    <file name="cakes-cream-delicious-confectionery-47734.jpg" crc="349120124" seo="true" ref="index"/>
+    <file name="hands-summer-party-colorful.jpg" crc="265478859" seo="true" ref="index"/>
+    <file name="food-sweet-cake-candles-6203.jpg" crc="122896736" seo="true" ref="index"/>
+    <file name="cakes-cream-delicious-confectionery-4773460x45.jpg" crc="532308290" seo="true" ref="index"/>
+    <file name="hands-summer-party-colorful60x42.jpg" crc="378600348" seo="true" ref="index"/>
+    <file name="food-sweet-cake-candles-620360x40.jpg" crc="167123803" seo="true" ref="index"/>
+    <file name="recurso 3s-iebuttonu5400-fr.png" crc="3900748403" ref="index"/>
+    <file name="recurso 3s.png" crc="3900748403" ref="index"/>
+    <file name="recurso 4s.png" crc="493413605" ref="index"/>
+    <file name="food-light-spring-dessert.jpg" crc="4245804031" seo="true" ref="index"/>
+    <file name="pexels-photo2.jpg" crc="10846075" seo="true" ref="index"/>
+    <file name="food-light-spring-dessert30x46.jpg" crc="233279219" seo="true" ref="index"/>
+    <file name="pexels-photo30x45.jpg" crc="3834131203" seo="true" ref="index"/>
+    <file name="recurso 5s-iebuttonu5588-fr.png" crc="3784600183" ref="index"/>
+    <file name="recurso 5s.png" crc="3784600183" ref="index"/>
+    <file name="recurso 6s.png" crc="535384085" ref="index"/>
+    <file name="pexels-photo (1).jpg" crc="3887460529" seo="true" ref="index"/>
+    <file name="pexels-photo-29013.jpg" crc="304210487" seo="true" ref="index"/>
+    <file name="pexels-photo (1)30x45.jpg" crc="3854213206" seo="true" ref="index"/>
+    <file name="pexels-photo-2901360x40.jpg" crc="126942481" seo="true" ref="index"/>
+    <file name="recurso 71.png" crc="4020142890" seo="true" ref="index"/>
+    <file name="recurso 10.png" crc="471124314" seo="true" ref="index"/>
+    <file name="recurso 9.png" crc="29705772" seo="true" ref="index"/>
+    <file name="recurso 8.png" crc="281383362" seo="true" ref="index"/>
+    <file name="recurso 11.png" crc="3965645244" seo="true" ref="index"/>
+    <file name="u4599-17.png" crc="35033384" ref="index"/>
+    <file name="u4599-17-r.png" crc="3912157183" ref="index"/>
+    <file name="u4599-17-m.png" crc="3912157183" ref="index"/>
+    <file name="u4599-17-fs.png" crc="4158607043" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3869335663" seo="true" mt="1470365586520" redirect="true"/>
+</manifest>
